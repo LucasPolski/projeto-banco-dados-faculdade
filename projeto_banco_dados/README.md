@@ -1,4 +1,4 @@
-# 📊 Projeto de Banco de Dados - Empresa
+# Projeto de Banco de Dados - Empresa
 
 Este repositório contém o **modelo relacional** e o **script SQL** para criação de um sistema de gerenciamento de:
 
@@ -10,7 +10,7 @@ Este repositório contém o **modelo relacional** e o **script SQL** para criaç
 
 ---
 
-## 🗂 Estrutura do Repositório
+# Estrutura do Repositório
 
 ```
 projeto-banco-dados/
@@ -22,7 +22,7 @@ projeto-banco-dados/
 
 ---
 
-## 📐 Modelo Entidade-Relacionamento (MER)
+# Modelo Entidade-Relacionamento (MER)
 
 O diagrama abaixo representa as entidades e seus relacionamentos:
 
@@ -30,7 +30,7 @@ O diagrama abaixo representa as entidades e seus relacionamentos:
 
 ---
 
-## 🛠 Tabelas criadas
+# Tabelas criadas
 
 - **Departamentos**
 - **Funcionarios**
@@ -40,7 +40,7 @@ O diagrama abaixo representa as entidades e seus relacionamentos:
 
 ---
 
-## 🔗 Relações
+# Relações
 
 - Um **departamento** pode ter vários funcionários.
 - Um **funcionário** pode estar alocado em vários projetos.
@@ -50,11 +50,11 @@ O diagrama abaixo representa as entidades e seus relacionamentos:
 
 ---
 
-## 🚀 Como usar
+# Como usar
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-banco-dados.git
+   git clone https://github.com/LucasPolski/projeto-banco-dados.git
    ```
 
 2. Acesse a pasta do projeto:
@@ -69,5 +69,5 @@ O diagrama abaixo representa as entidades e seus relacionamentos:
 
 ---
 
-## 📌 Autor
+# Autor
 Projeto desenvolvido para estudos de **Modelagem de Dados** e **SQL**.
