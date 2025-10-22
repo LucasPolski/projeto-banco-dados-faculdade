@@ -3,7 +3,7 @@
 -- Projeto: Sistema de Departamentos, Funcionários, Projetos e Tarefas
 -- =====================================
 
--- Criação do banco de dados (opcional)
+-- Criação do banco de dados
 CREATE DATABASE IF NOT EXISTS EmpresaDB;
 USE EmpresaDB;
 
